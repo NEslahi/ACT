@@ -1,1 +1,1 @@
-linguist-language=matlab
+*.m linguist-language=matlab
